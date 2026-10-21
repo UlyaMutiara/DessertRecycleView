@@ -8,7 +8,7 @@
 
 | Halaman Utama Droid Desserts |
 | :---: |
-| ![Droid Desserts UI](image_d35c2a.jpg) |
+| ![Droid Desserts UI](images/ImageDessertRecycleView.jpeg) |
 
 ---
 
